@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet(name = "requestParamServlet", urlPatterns = "/request-param")
-public class RequestParamServlet extends HttpServlet {
+@WebServlet(name = "r002_RequestParamServlet", urlPatterns = "/request-param")
+public class R002_RequestParamServlet extends HttpServlet {
 
 
     @Override
